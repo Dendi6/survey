@@ -3,13 +3,6 @@
 Aplikasi ini merupakan aplikasi yang dikembangkan untuk menyelesaikan tugas pemograman web.
 Aplikasi di bangun dengan bahasa `php` dan memanfaatkan framework `Codeigniter 4`. Styling menggunakan css dan menggunakan libraruy `materialiaze`. Sedangkan untuk chart atau grafik, menggunakan library `chart js`.
 
-## Interface
-
-<img src="public/img/1.png" width="100%" alt="dashboard">
-<img src="public/img/2.png" width="100%" alt="dashboard">
-<img src="public/img/3.png" width="100%" alt="riwayat">
-<img src="public/img/4.png" width="100%" alt="detail">
-
 ## Running
 
 1. clone aplikasi dengan menggunakan perintah
@@ -20,3 +13,10 @@ Aplikasi di bangun dengan bahasa `php` dan memanfaatkan framework `Codeigniter 4
    `php spark Serve`
 
 Happy Coding 🤣
+
+## Interface
+
+<img src="public/img/1.png" width="100%" alt="dashboard">
+<img src="public/img/2.png" width="100%" alt="dashboard">
+<img src="public/img/3.png" width="100%" alt="riwayat">
+<img src="public/img/4.png" width="100%" alt="detail">
