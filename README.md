@@ -5,10 +5,10 @@ Aplikasi di bangun dengan bahasa `php` dan memanfaatkan framework `Codeigniter 4
 
 ## Interface
 
-<img src="img/1.png" width="100%" alt="dashboard">
-<img src="img/2.png" width="100%" alt="dashboard">
-<img src="img/3.png" width="100%" alt="riwayat">
-<img src="img/4.png" width="100%" alt="detail">
+<img src="/img/1.png" width="100%" alt="dashboard">
+<img src="/img/2.png" width="100%" alt="dashboard">
+<img src="/img/3.png" width="100%" alt="riwayat">
+<img src="/img/4.png" width="100%" alt="detail">
 
 ## Running
 
