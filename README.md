@@ -5,18 +5,17 @@ Aplikasi di bangun dengan bahasa `php` dan memanfaatkan framework `Codeigniter 4
 
 ## Interface
 
-<img src="img/1.png" width="100%" alt="dashboard">
-<img src="img/2.png" width="100%" alt="dashboard">
-<img src="img/3.png" width="100%" alt="riwayat">
-<img src="img/4.png" width="100%" alt="detail">
+<img src="public/img/1.png" width="100%" alt="dashboard">
+<img src="public/img/2.png" width="100%" alt="dashboard">
+<img src="public/img/3.png" width="100%" alt="riwayat">
+<img src="public/img/4.png" width="100%" alt="detail">
 
 ## Running
 
 1. clone aplikasi dengan menggunakan perintah
    `git clone`
-
 2. Jalankan server mysql.
-3. Import database yang tersedia.
+3. Import database dengan nama `survey.sql`.
 4. Running sistem dengan mengetik
    `php spark Serve`
 
