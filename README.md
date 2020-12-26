@@ -17,6 +17,5 @@ Happy Coding 🤣
 ## Interface
 
 <img src="public/img/1.png" width="100%" alt="dashboard">
-<img src="public/img/2.png" width="100%" alt="dashboard">
 <img src="public/img/3.png" width="100%" alt="riwayat">
 <img src="public/img/4.png" width="100%" alt="detail">
