@@ -84,7 +84,7 @@ class Home extends BaseController
 			'p3' => 'required',
 			'p4' => 'required'
 		])) {
-			session()->setFlashdata('pesan', 'NIM sudah melakukan survey, Gunakan NIM Berbeda');
+			session()->setFlashdata('error', 'NIM sudah melakukan survey, Gunakan NIM Berbeda');
 
 			return redirect()->to('/home')->withInput();
 		}

@@ -16,6 +16,15 @@
             </div>
         </nav>
     <?php endif; ?>
+    <?php if (session()->getFlashdata('error')) : ?>
+        <nav class="mt-2 red">
+            <div class="nav-wrapper">
+                <div class="col s12">
+                    <a href="#!" class="breadcrumb"> <?= session()->getFlashdata('error'); ?></a>
+                </div>
+            </div>
+        </nav>
+    <?php endif; ?>
 
     <?= $this->include('home/grafik/index'); ?>
 
